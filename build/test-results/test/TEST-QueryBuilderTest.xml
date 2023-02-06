@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QueryBuilderTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-02-04T14:30:16" hostname="TI02" time="0.04">
+  <properties/>
+  <testcase name="whereBetweenDate()" classname="QueryBuilderTest" time="0.023"/>
+  <testcase name="whereInTest()" classname="QueryBuilderTest" time="0.001"/>
+  <testcase name="selectTest()" classname="QueryBuilderTest" time="0.001"/>
+  <testcase name="whereOrTest()" classname="QueryBuilderTest" time="0.002"/>
+  <testcase name="whereTest()" classname="QueryBuilderTest" time="0.002"/>
+  <testcase name="generalTest()" classname="QueryBuilderTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
